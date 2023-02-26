@@ -2096,13 +2096,6 @@ button:not(:disabled),
 
 
 
-.text-white-50 {
-  --bs-text-opacity: 1;
-  color: rgba(255, 255, 255, 0.5) ;
-}
-
-
-
 .bg-primary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) ;
