@@ -2076,73 +2076,25 @@ button:not(:disabled),
 }
 
 
-.text-start {
-  text-align: left ;
-}
 
-.text-end {
-  text-align: right ;
-}
 
 .text-center {
   text-align: center ;
 }
 
-.text-decoration-none {
-  text-decoration: none ;
-}
-
-.text-decoration-underline {
-  text-decoration: underline ;
-}
-
-.text-decoration-line-through {
-  text-decoration: line-through ;
-}
-
-.text-lowercase {
-  text-transform: lowercase ;
-}
 
 .text-uppercase {
   text-transform: uppercase ;
 }
 
-.text-capitalize {
-  text-transform: capitalize ;
-}
 
-.text-wrap {
-  white-space: normal ;
-}
-
-.text-nowrap {
-  white-space: nowrap ;
-}
-
-/* rtl:begin:remove */
-
-
-
-.text-black {
-  --bs-text-opacity: 1;
-  color: rgba(var(--bs-black-rgb), var(--bs-text-opacity)) ;
-}
 
 .text-white {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) ;
 }
 
-.text-body {
-  --bs-text-opacity: 1;
-  color: rgba(var(--bs-body-color-rgb), var(--bs-text-opacity)) ;
-}
 
-.text-black-50 {
-  --bs-text-opacity: 1;
-  color: rgba(0, 0, 0, 0.5) ;
-}
 
 .text-white-50 {
   --bs-text-opacity: 1;
