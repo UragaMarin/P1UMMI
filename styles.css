@@ -2126,41 +2126,6 @@ button:not(:disabled),
   background-color: rgba(var(--bs-danger-rgb), var(--bs-bg-opacity)) ;
 }
 
-.bg-light {
-  --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) ;
-}
-
-.bg-dark {
-  --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) ;
-}
-
-.bg-black {
-  --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-black-rgb), var(--bs-bg-opacity)) ;
-}
-
-.bg-white {
-  --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-white-rgb), var(--bs-bg-opacity)) ;
-}
-
-.bg-body {
-  --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-body-bg-rgb), var(--bs-bg-opacity)) ;
-}
-
-.bg-transparent {
-  --bs-bg-opacity: 1;
-  background-color: transparent ;
-}
-
-.bg-gradient {
-  background-image: var(--bs-gradient) ;
-}
-
-
 
   .px-lg-3 {
     padding-right: 1rem ;
